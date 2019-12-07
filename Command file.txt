@@ -1,0 +1,22 @@
+; All of items to be searched must be entered in UPPERCASE or else the program will not work correctly.
+;
+; To search for the name of an artist, write:                          ARTIST<NAME>               , where NAME=Name of the artist
+;
+; To get the list of songs by an artist, write:                         LIST<NAME>                , where NAME=Name of the artist
+;
+; To get the number of songs recorded by an artist, write:             COUNT<NAME>                , where NAME=Name of the artist
+;
+; To delete the records of an artist, write:                           REMOVE<NAME>               , where NAME=Name of the artist
+; 
+; To search for the singers of a song name, write:                     TITLE<TITLE>               , where TITLE=Title of the song
+;
+; To display the avl tree in the log file, write:                        DISPLAY 
+;
+; To exit the program, write:                                             EXIT
+;
+;Enter your commands in the lines below the semi-colon.
+;
+
+DISPLAY
+REMOVE<ATIF ASLAM>
+DISPLAY
