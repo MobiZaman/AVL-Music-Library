@@ -1,5 +1,3 @@
-//SUBMITTED BY: MUBASHIRA ZAMAN, SOWEBA RAHMAN, TOOBA RAFIQUE
-
 #include<iostream>
 #include<string>
 #include<fstream>            //this library is included for file handling, both input and output
